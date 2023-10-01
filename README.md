@@ -45,3 +45,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ![screencapture-localhost-3000-write-2023-09-30-01_19_54](https://github.com/ahmedkhederali/Blog-Project-/assets/74122938/db44cfff-cdcc-4dbd-8763-5bccc2002525)
 ![3](https://github.com/ahmedkhederali/Blog-Project-/assets/74122938/a131524b-2f8d-40bc-99df-e09b3a4a22ba)
 
+### alter user 'root'@'localhost' identified with mysql_native_password by 'ahmed1234'
+
